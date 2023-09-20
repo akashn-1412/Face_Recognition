@@ -12,7 +12,7 @@ Before you begin, make sure you have the following prerequisites in place:
 
 ## **Languages and Technologies Used**
 
-- **Python (3.x)**: The primary programming language for this project.
+- **Python **: The primary programming language for this project.
 
 - **OpenCV Library**: We leverage the OpenCV (Open Source Computer Vision Library) to work with images, video streams, and perform face detection and recognition.
 
